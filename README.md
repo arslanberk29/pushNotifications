@@ -2,7 +2,7 @@
 ## Welcome to the pushNotifications wiki!
 ## Sending Push Notifications to a Virtual Machine using Flutter
 
-First, the UI is designed to show what we have receive as a message. And a counter is designed to see how many notifications we get. Also, three states may occur when a device receives notifications. States are while app is running, app is in background and while app is terminated by the user.
+Firstly, the UI is designed to show what we have received as a message, and a counter is designed to see how many notifications we get. Also, three states may occur when a device receives notifications. States are while app is running, app is in background and while app is terminated by the user.
 
 
 In first state, when the device receive a notification while app is running it looks like this;
