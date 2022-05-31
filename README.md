@@ -12,9 +12,11 @@ In first state, when the device receives a notification while app is running it 
 
 In second state, while app is working in background you got a notification which appears on your notifications tab.
 
-![Screenshot_1653918433](https://user-images.githubusercontent.com/51158149/171133106-6e4cbc0c-0434-4426-bdcf-d3235182116b.png)                                      
+![Screenshot_1653918433](https://user-images.githubusercontent.com/51158149/171133106-6e4cbc0c-0434-4426-bdcf-d3235182116b.png)       ![background](https://user-images.githubusercontent.com/51158149/171177420-96ed0fa2-da98-487e-8ab9-27554a73c7d5.png)
+                              
 
 
 In third state, when app is terminated by the user we have similar push notification as app in background.
 
 ![Screenshot_1653918432](https://user-images.githubusercontent.com/51158149/171132783-6c813bb8-0b05-4945-afc4-a2a8db50fcaa.png)
+![terminated](https://user-images.githubusercontent.com/51158149/171177441-fc891288-25f3-465e-8426-daf172f7fc4f.png)
