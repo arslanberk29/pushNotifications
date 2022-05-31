@@ -12,7 +12,7 @@ In first state, when the device receive a notification while app is running it l
 
 In second state, while app is working in background you got a notification which appears on your notifications tab.
 
-![Screenshot_1653918433](https://user-images.githubusercontent.com/51158149/171133106-6e4cbc0c-0434-4426-bdcf-d3235182116b.png)                                      ![Screenshot_1653908889](https://user-images.githubusercontent.com/51158149/171133500-cb8d93ab-207e-4ba5-928c-5db6ce38a5ba.png)
+![Screenshot_1653918433](https://user-images.githubusercontent.com/51158149/171133106-6e4cbc0c-0434-4426-bdcf-d3235182116b.png)                                          ![Screenshot_1653908889](https://user-images.githubusercontent.com/51158149/171133500-cb8d93ab-207e-4ba5-928c-5db6ce38a5ba.png)
 
 
 In third state, when app is terminated by the user we have similar notification as app in background.
