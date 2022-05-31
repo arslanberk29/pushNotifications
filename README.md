@@ -13,4 +13,4 @@ In second state, while app is working in background you got a notification which
 
 In third state, when app is terminated by the user we have similar notification as app in background.
 ![Screenshot_1653918432](https://user-images.githubusercontent.com/51158149/171132369-6dc21646-f908-45c4-bb5e-bff1173623ff.png)
-![Screenshot_1653918432](https://user-images.githubusercontent.com/51158149/171132625-a34cf8cd-480b-4125-b433-8b86daef9376.png)
+![Screenshot_1653918432](https://user-images.githubusercontent.com/51158149/171132783-6c813bb8-0b05-4945-afc4-a2a8db50fcaa.png)
